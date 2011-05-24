@@ -13,9 +13,7 @@ def build_image(figure, x, y):
    im.show()
    # convert to black white
    fig = im.convert("L").rotate(90) #ainda é preciso rotacionar ?!?! VERIFICAR
-   #fig.show()
    fig = fig.resize((x * width, y * height))
-   #fig.show()
    return fig
 
 def build_imarray(im, x, y):
