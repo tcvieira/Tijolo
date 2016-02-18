@@ -5,5 +5,5 @@ O **Tijolo Esperto** é um projeto contemplado pelo Itaú Cultural.
 
 usage:
 
-./Tijolo.py <tijolos em no eixo x> <tijolos no eixo y> <imagem>
+`./Tijolo.py <tijolos em no eixo x> <tijolos no eixo y> <imagem>`
 
